@@ -2,7 +2,17 @@
 
 ###
 
-<p align="left">ICS5 BMSTU | VK Web-Development  student</p>
+<p align="left">ICS5 BMSTU | VK Web-Development student</p>
+
+###
+
+<h2 align="left">Profiles</h2>
+
+<p align="left">
+  <a href="https://leetcode.com/imperialmelon/">
+    <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=yellow" alt="LeetCode"/>
+  </a>
+</p>
 
 ###
 
