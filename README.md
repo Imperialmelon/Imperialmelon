@@ -1,6 +1,6 @@
 <h1 align="left">Hello there 👋</h1>
 
-<p align="left">ICS5 BMSTU | VK Web-Development student</p>
+<p align="left">ICS5 BMSTU | VK Web-Development student | Ozon Tech intern</p>
 
 <h2 align="left">Profiles</h2>
 
